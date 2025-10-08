@@ -1,9 +1,9 @@
 {
   "$type": "ThunderRoad.ItemData, ThunderRoad",
-  "id": "KyberCrystalMagentaCompressed",
+  "id": "KyberCrystalIndigoCompressed",
   "version": 4,
-  "localizationId": "KyberCrystalMagentaCompressed",
-  "displayName": "Kyber Crystal (Magenta - Compressed)",
+  "localizationId": "KyberCrystalIndigoCompressed",
+  "displayName": "Kyber Crystal (Indigo - Compressed)",
   "description": "",
   "author": "Ryan H.",
   "valueType": "Gold",
@@ -57,21 +57,24 @@
   "modules": [
     {
       "$type": "TOR.ItemModuleKyberCrystal, TheOuterRim",
-      "bladeColour": [1, 0, 0.79, 1],
-      "glowColour": [1, 0, 0.79, 1],
+      "bladeColour": [0.4, 0, 1, 1],
+      "glowColour": [0.3, 0, 1, 1],
+      "coreColour": [1, 1, 1, 1],
+      "coreRadius": 0.99,
+      "coreStrength": 1.0,
       "innerGlow": 1.0,
       "outerGlow": 0.3,
       "isUnstable": true,
-      "idleSound": "theouterrim_lightsabers.LightsaberIdleMagenta",
+      "idleSound": "theouterrim_lightsabers.LightsaberIdlePurpleBlack",
       "idleSoundVolume": 0.6,
       "idleSoundPitch": 0.3,
-      "startSound": "theouterrim_lightsabers.LightsaberStartMagenta",
+      "startSound": "theouterrim_lightsabers.LightsaberStartYellow",
       "startSoundVolume": 0.6,
       "startSoundPitch": 0.9,
-      "stopSound": "theouterrim_lightsabers.LightsaberStopMagenta",
+      "stopSound": "theouterrim_lightsabers.LightsaberStopPurpleBlack",
       "stopSoundVolume": 0.35,
       "stopSoundPitch": 0.9,
-      "whooshFX": "WhooshLightsaberMagenta"
+      "whooshFX": "WhooshLightsaberWhite"
     }
   ],
   "colliderGroups": [],

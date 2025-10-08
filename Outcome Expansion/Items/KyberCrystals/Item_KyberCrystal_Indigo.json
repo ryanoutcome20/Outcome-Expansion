@@ -62,7 +62,7 @@
       "coreColour": [1, 1, 1, 1],
       "innerGlow": 0.5,
       "coreRadius": 0.99,
-      "coreStrength": 1,
+      "coreStrength": 1.0,
       "isUnstable": false,
       "idleSound": "theouterrim_lightsabers.LightsaberIdlePurpleBlack",
       "idleSoundVolume": 0.6,
