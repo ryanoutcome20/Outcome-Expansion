@@ -1,9 +1,9 @@
 {
   "$type": "ThunderRoad.ItemData, ThunderRoad",
-  "id": "KyberCrystalTest",
+  "id": "KyberCrystalRedBlood",
   "version": 4,
-  "localizationId": "KyberCrystalTest",
-  "displayName": "A. Kyber Crystal (Test)",
+  "localizationId": "KyberCrystalRedBlood",
+  "displayName": "Kyber Crystal (Red - Blood)",
   "description": "",
   "author": "Ryan H.",
   "valueType": "Gold",
