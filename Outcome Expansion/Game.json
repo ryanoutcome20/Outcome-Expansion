@@ -2,9 +2,15 @@
   "$type": "ThunderRoad.GameData, ThunderRoad",
   "categories": [
     {
-      "name": "Outcome Expansion Kyber Crystals",
+      "name": "Outcome Expansion: Kyber Crystals",
       "group": "The Outer Rim",
       "iconAddress": "theouterrim.crystal-logo"
+    },
+    
+    {
+      "name": "Outcome Expansion: Lightsabers",
+      "group": "The Outer Rim",
+      "iconAddress": "theouterrim.lightsaber-logo"
     }
   ]
 }
